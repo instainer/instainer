@@ -1,6 +1,8 @@
 # instainer
 ###Run any Docker container on the cloud instantly
 
+[![Join the chat at https://gitter.im/instainer/instainer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/instainer/instainer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #What is instainer?
 
 Instainer is a Docker container hosting service which allows run instantly any Docker container on the cloud with Heroku-style Git deployment.
