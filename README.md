@@ -101,6 +101,7 @@ You can check documentation from [https://github.com/instainer/instainer/wiki](h
 
 #”I have a question.”
 Please feel free to use GITTER room your questions. 
+[![Join the chat at https://gitter.im/instainer/instainer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/instainer/instainer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 #Contribution
