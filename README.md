@@ -1,5 +1,5 @@
 # instainer
-####Run any Docker container on the cloud instantly with Heroku-style Git deployment
+###Run any Docker container on the cloud instantly
 
 #What is instainer?
 
