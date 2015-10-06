@@ -3,6 +3,15 @@
 
 [![Join the chat at https://gitter.im/instainer/instainer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/instainer/instainer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+####ROADMAP - UPDATED 5 Oct 2015
+- Early access invitations have sent.
+- Upload Dockerfile to build custom image
+- Push custom images to Instainer
+- Make Permanent Container & Delete Container from Instainer CLI
+- Custom subdomains support (ie. karla.instainer.io -> REVERSE PROXY -> YOURCONTAINER:32102)
+- Do you have any idea? Please share it with us.
+
+
 #What is instainer?
 
 Instainer is a Docker container hosting service which allows run instantly any Docker container on the cloud with Heroku-style Git deployment.
