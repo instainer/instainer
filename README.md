@@ -20,7 +20,7 @@ We believe in [KISS](https://en.wikipedia.org/wiki/KISS_principle). When we star
 
 
 #Quick Start
-####Open [www.instainer.com](www.instainer.com), click any container to run.
+####Open [beta.instainer.com](http://beta.instainer.com), click any container to run.
 
 ![Click any container](http://beta.instainer.com/docs/instainer.png)
 
@@ -38,8 +38,7 @@ You can find Instainer CLI Installation Guide from [here](https://github.com/ins
 
 After installing instainer-cli and configuring it you can type on command line to run an nginx container.
 
-    ./instainer run nginx 
-
+    ./instainer run -v /usr/share/nginx/html nginx 
 
 
 For more information about instainer-cli commands you can find Instainer CLI Commands documentation from [here](https://github.com/instainer/instainer/wiki#instainer-cli-commands).
@@ -48,7 +47,7 @@ For more information about instainer-cli commands you can find Instainer CLI Com
 Make GET request to REST API 
 
     curl -i -H "API-KEY: XXXXXXXXX" \
-    -X POST http://www.instainer.com/backend/api/container/run?image=nginx
+    -X POST http://beta.instainer.com/backend/api/container/run?image=nginx
 
 You can find Instainer REST API documentation from [here](https://github.com/instainer/instainer/wiki#instainer-rest-api-documentation)
 
@@ -103,7 +102,7 @@ You can use Show Logs link on My Containers panel; Instainer REST API or Instain
 
 #Can I use docker-compose.yml?
 
-Yes! You can use docker-compose section on www.instainer.com to run your compose file or you can use [Instainer CLI](https://github.com/instainer/instainer/wiki#instainer-cli-commands) or [Instainer REST API](https://github.com/instainer/instainer/wiki#instainer-rest-api-documentation).  
+Yes! You can use docker-compose section on beta.instainer.com to run your compose file or you can use [Instainer CLI](https://github.com/instainer/instainer/wiki#instainer-cli-commands) or [Instainer REST API](https://github.com/instainer/instainer/wiki#instainer-rest-api-documentation).  
 
 #Documentation
 You can check documentation from [https://github.com/instainer/instainer/wiki](https://github.com/instainer/instainer/wiki)
