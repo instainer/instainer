@@ -113,5 +113,15 @@ Please feel free to use GITTER room your questions.
 [![Join the chat at https://gitter.im/instainer/instainer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/instainer/instainer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
+#Add "Deploy now on Instainer" ribbon to your project's page
+![Ribon](http://beta.instainer.com/img/ribon.png)
+
+If you have a project with n-step installation guide and you want to provide something useable to your visitors in a few seconds you can use "Deploy now on Instainer" ribbon. After creating a Docker image for your project, you can add these lines to your web page and your visitors easily run your Docker image on Instainer.
+
+    <a href="https://beta.instainer.com/?deploy=YOUR_IMAGE_NAME">
+    <img style="position: absolute; top: 0; right: 0; border: 0;" 
+         src="http://beta.instainer.com/img/ribon.png"></a>
+
+
 #Contribution
 Please feel free to create issue and open pull request. Also mention us on Twitter and we will tell you to follow which rabbit! [@instainer](http://twitter.com/instainer)
