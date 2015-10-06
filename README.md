@@ -117,7 +117,7 @@ Please feel free to use GITTER room your questions.
 
 If you have a project with n-step installation guide and you want to provide something useable to your visitors in a few seconds you can use "Deploy now on Instainer" ribbon. After creating a Docker image for your project, you can add these lines to your web page and your visitors easily run your Docker image on Instainer.
 
-    <a href="https://beta.instainer.com/?deploy=YOUR_IMAGE_NAME">
+    <a href="http://beta.instainer.com/?deploy=YOUR_IMAGE_NAME">
     <img style="position: absolute; top: 0; right: 0; border: 0;" 
          src="http://beta.instainer.com/img/ribon.png"></a>
 
